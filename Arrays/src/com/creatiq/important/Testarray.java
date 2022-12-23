@@ -1,5 +1,9 @@
-class Testarray{  
-public static void main(String args[]){  
+public class Testarray{  
+	
+	
+	
+public static void main(String args[]){
+	
 int a[]=new int[5];//declaration and instantiation  
 a[0]=10;//initialization  
 a[1]=20;  
